@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(188, 188, 188);
+}
+
+.Home {
+    color: rgb(255, 0, 0);
+    background-color: black;
+    border-radius: 50px;
+    border: 2px dashed rgb(188, 188, 188);
+    font-size: 15px;
+    padding: 4px 28px 4px 28px;
+    margin: 2px 2px;
+    text-decoration: none;
+}
+
+.Home:hover {
+    color: black;
+    background-color: rgb(255, 255, 255);
+    border: 2px dashed #000000;
+    box-shadow: 2px 5px 9px rgb(0, 0, 0);
+    transition: 0.75s;
+}
+
+.a {
+    color: red;
+    background-color: rgb(0, 0, 0);
+}
+
+.b {
+    color: #ffffff;
+}
+
+.c {
+    color: #000000;
+    background-color: rgb(255, 255, 255);
+}
+
+.d {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+}
